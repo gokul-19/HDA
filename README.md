@@ -32,7 +32,7 @@ This project explores **mental health discourse** on Reddit’s *r/SuicideWatch*
 ### 📁 Project Files
 | File | Description |
 |------|--------------|
-| `HDA.ipynb` | Main notebook containing preprocessing, analysis, and visualization |
+| `MentalHealthRedditAnalysis.ipynb` | Main notebook containing preprocessing, analysis, and visualization |
 | `MentalHealthAnalysisResults.csv` | Processed dataset with sentiment and topic results |
 | `README.md` | Project overview and documentation |
 ### 👨‍💻 Author
